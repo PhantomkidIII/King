@@ -1,7 +1,7 @@
 {
-    "name": "King Bug-Bot",
+    "name": "King Bot",
     "version": "8.0.0",
-    "description": "WhatsApp War Bot Using Nodejs",
+    "description": "WhatsApp Bot Using Nodejs",
     "main": "index.js",
     "type": "commonjs",
     "directories": {
