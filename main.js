@@ -344,7 +344,7 @@ XeonBotInc.ev.on("connection.update",async  (s) => {
         return buffer
     }
     }
-return startXeonBotInc()
+
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
